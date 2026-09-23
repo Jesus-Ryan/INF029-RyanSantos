@@ -1,0 +1,26 @@
+#ifndef ESCOLA_H
+#define ESCOLA_H
+
+#include "Utils.h"
+
+#define SUCESSO_CADASTRO -1
+#define ERRO_CADASTRO_MATRICULA -2
+#define ERRO_CADASTRO_SEXO -3
+#define ERRO_DATA_INVALIDA -4
+#define LISTA_VAZIA -5
+#define SUCESSO_EXCLUSAO -6
+#define NAO_ENCONTRADO -7
+
+/* Novos codigos de retorno (Professor, Disciplina e Matricula) */
+#define ERRO_CADASTRO_CPF -8
+#define ERRO_PROFESSOR_INEXISTENTE -9
+#define ERRO_DISCIPLINA_JA_EXISTE -10
+#define ERRO_ALUNO_JA_MATRICULADO -11
+#define ERRO_ALUNO_NAO_MATRICULADO -12
+#define SUCESSO_MATRICULA -13
+#define SUCESSO_ATUALIZACAO -14
+#define ERRO_PROFESSOR_COM_DISCIPLINA -15
+#define ERRO_ALUNO_INEXISTENTE -16
+#define ERRO_DISCIPLINA_INEXISTENTE -17
+
+#endif /* ESCOLA_H */
