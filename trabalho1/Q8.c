@@ -1,14 +1,3 @@
-// #################################################
-//  Instituto Federal da Bahia - Salvador - BA
-//  Curso de Análise e Desenvolvimento de Sistemas
-//  Disciplina: INF029 - Laboratório de Programação
-//  Professor: Renato Novais
-
-//  ----- Dados do Aluno -----
-//  Nome:
-//  email:
-//  Matrícula:
-//  Semestre:
 
 //  Questão 8: jogo da velha
 // #################################################
